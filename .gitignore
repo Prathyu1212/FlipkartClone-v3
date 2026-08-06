@@ -1,16 +1,15 @@
-# Backend
+# Node modules
 backend/node_modules/
+
+# Environment variables
 backend/.env
-
-# Root
-node_modules/
-
-# VS Code
-.vscode/
 
 # Logs
 *.log
 
-# OS Files
-Thumbs.db
+# VS Code settings
+.vscode/
+
+# OS files
 .DS_Store
+Thumbs.db
